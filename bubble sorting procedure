@@ -11,3 +11,7 @@ step3:compare value present at 1st position with the value at 2nd position and r
 step4: after the completion of step3 we will get a list collection where highest value will be at the sorted position(that is at the end of the collection).
 
 step5: repeate the step1 to step4  for n-1 times, so that we can get the sorted collection.
+
+NOTE: we can do this bubble sorting only for list collection only, 
+beacuse for set and dictionary indexing is not possible
+string and tuple are immutable collection data types 
