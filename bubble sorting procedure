@@ -12,6 +12,8 @@ step4: after the completion of step3 we will get a list collection where highest
 
 step5: repeate the step1 to step4  for n-1 times, so that we can get the sorted collection.
 
-NOTE: we can do this bubble sorting only for list collection only, 
+NOTE1: we can do this bubble sorting only for list collection only, 
 beacuse for set and dictionary indexing is not possible
 string and tuple are immutable collection data types 
+
+NOTE2: We should always use Homogenious list collection in bubble sorting algoritham.
