@@ -1,0 +1,13 @@
+Bubble sort algoritham is an algoritham which is used to sort the given list of values either in asscending order or in descending order.
+if length of the collection is n then we need to perform n-1 passes.
+
+ALGORITHAM:
+step1: consider a list of n values
+
+step2:compare the value present at 0th position with the value present at 1st position, if it is greater then swap both values else ignore.
+
+step3:compare value present at 1st position with the value at 2nd position and repeate the same thing through the length of collection.
+
+step4: after the completion of step3 we will get a list collection where highest value will be at the sorted position(that is at the end of the collection).
+
+step5: repeate the step1 to step4  for n-1 times, so that we can get the sorted collection.
